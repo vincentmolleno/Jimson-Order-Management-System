@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddNewUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Backup and Recovery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cashier.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Cashier_Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Configure.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fullscreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inv_AddItem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inv_ReportWaste.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventories.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Logging.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Log_Notes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Orders.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ord_Edit_Order.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ord_NewOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ord_ViewOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RecycleBin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Low_Stock_Alert_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Order_Status_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Order_Trends_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Recent_Order_Summary_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Recent_Wastage_Summary_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Top_Revenue_Orders_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_Top_Wasted_Items_Analysis_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_User_Role_Distribution_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Rep_User_Status_Summary_Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Staff_Dashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User Accounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Activity_Logs.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Edit_User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_View_Info.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

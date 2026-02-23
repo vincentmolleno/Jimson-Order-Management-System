@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\moddatabaseinit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:moddatabaseinit.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\moddb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:moddb.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\configure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:configure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\configure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:configure.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\logging.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:logging.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\recyclebin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:recyclebin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|c:\\users\\vincentmolleno\\source\\repos\\jimson order \u0026 management system\\admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{93376D8F-1A2D-4617-8F03-1A2FB1B7CFF6}|Jimson Order \u0026 Management System.vbproj|solutionrelative:admin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configure.vb",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Configure.vb",
+              "RelativeDocumentMoniker": "Configure.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Configure.vb",
+              "RelativeToolTip": "Configure.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T07:16:18.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configure.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Configure.vb",
+              "RelativeDocumentMoniker": "Configure.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Configure.vb [Design]",
+              "RelativeToolTip": "Configure.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T07:16:15.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "modDB.vb",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\modDB.vb",
+              "RelativeDocumentMoniker": "modDB.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\modDB.vb",
+              "RelativeToolTip": "modDB.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T07:15:55.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modDatabaseInit.vb",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\modDatabaseInit.vb",
+              "RelativeDocumentMoniker": "modDatabaseInit.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\modDatabaseInit.vb",
+              "RelativeToolTip": "modDatabaseInit.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-06T06:51:06.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.vb",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Login.vb",
+              "RelativeToolTip": "Login.vb",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwFMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T04:05:29.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Login.vb [Design]",
+              "RelativeToolTip": "Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T04:05:27.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecycleBin.vb",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\RecycleBin.vb",
+              "RelativeDocumentMoniker": "RecycleBin.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\RecycleBin.vb",
+              "RelativeToolTip": "RecycleBin.vb",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwJAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T04:02:56.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logging.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Logging.vb",
+              "RelativeDocumentMoniker": "Logging.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Logging.vb [Design]",
+              "RelativeToolTip": "Logging.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T03:50:21.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Admin.vb",
+              "RelativeDocumentMoniker": "Admin.vb",
+              "ToolTip": "C:\\Users\\vincentmolleno\\source\\repos\\Jimson Order \u0026 Management System\\Admin.vb [Design]",
+              "RelativeToolTip": "Admin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-05T03:46:25.993Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
